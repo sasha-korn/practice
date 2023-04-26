@@ -5,3 +5,25 @@
     --secondary-color: #FFFFFF; 
     --background-color-grey: #F6F6F8;
 }
+
+ul {
+    list-style: none;
+margin: 0;
+padding: 0;
+}
+
+h1, h2, h3, p {
+    margin: 0;
+}
+
+a {text-decoration: none;}
+
+img {display: block;
+max-width: 100%;}
+
+.container {
+    outline: 1px solid red;
+    width: 1110px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
